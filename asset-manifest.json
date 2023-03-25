@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/to-do/static/css/main.f5170e9b.css",
+    "main.js": "/to-do/static/js/main.b39a1a0b.js",
+    "static/media/time-organization-concept-with-planner-top-view.jpg": "/to-do/static/media/time-organization-concept-with-planner-top-view.364e1b81139df76333de.jpg",
+    "index.html": "/to-do/index.html",
+    "main.f5170e9b.css.map": "/to-do/static/css/main.f5170e9b.css.map",
+    "main.b39a1a0b.js.map": "/to-do/static/js/main.b39a1a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5170e9b.css",
+    "static/js/main.b39a1a0b.js"
+  ]
+}
