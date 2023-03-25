@@ -1,0 +1,26 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+  margin: 0;
+  font-family: 'Calligraffitti', cursive;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('../images/time-organization-concept-with-planner-top-view.jpg');
+  background-size: cover;
+  color: #614933;
+}
+
+code {
+  font-family: 'Calligraffitti', cursive;
+}
+
+ul,
+li,
+ol {
+  list-style: none;
+}
+
+button {
+  font-family: inherit;
+}
